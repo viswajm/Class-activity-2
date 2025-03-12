@@ -11,3 +11,5 @@ Python activity
 7. in line 13: "colon" is missing
 8. in line 13: function name should be is_narc
 9. in line 16: function name should be "narcis_numbers"
+
+Output: 1634
